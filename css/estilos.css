@@ -1,0 +1,55 @@
+.contenedor1{
+width: 100px;
+height: 100px;
+padding: 10px;
+border-color: black;
+border-style: solid; 
+} 
+
+
+.miestilo{
+    background-color: pink;
+    color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(12, 11, 17);
+    width: 1000px;
+    height: 1000px;
+    padding: 10px;
+    margin-top: 20px;   
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header{   
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+footer{
+    text-align: center;
+    font-style: arial;   
+
+}
+
+li{
+    display:inline;
+    color:white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+
+}
+li:hover{
+    background-color: bisque;
+}
+
+.cabecera {    
+    text-align: center;
+    position: fixed;
+}
+
+.primera{
+    margin-top: 150px;
+}
